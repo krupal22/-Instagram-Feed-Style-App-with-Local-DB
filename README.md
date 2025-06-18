@@ -3,6 +3,11 @@
 A simple Instagram/Twitter-style feed app built for interview using Flutter, GetX, and SQLite.  
 All data is stored locally. No backend required.
 
+##  Screenshots
+
+![ezgif-4-72a8ca263b](https://github.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/lib/assets/ss/ss1.png)
+
+
 ## 🔥 Features
 
 🔐 **Login / Logout**
