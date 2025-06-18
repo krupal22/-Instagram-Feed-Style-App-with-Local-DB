@@ -5,7 +5,19 @@ All data is stored locally. No backend required.
 
 ##  Screenshots
 
-![ezgif-4-72a8ca263b](https://github.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/lib/assets/ss/ss1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss1.png" width="30%" style="margin: 10px;"/>
+
+  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss2.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss3.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss4.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss5.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss6.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss7.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss8.png" width="30%" style="margin: 10px;"/>
+
+
+</p>
 
 
 ## 🔥 Features
