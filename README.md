@@ -14,7 +14,6 @@ All data is stored locally. No backend required.
   <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss5.png" width="30%" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss6.png" width="30%" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss7.png" width="30%" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/krupal22/-Instagram-Feed-Style-App-with-Local-DB/master/assets/ss/ss8.png" width="30%" style="margin: 10px;"/>
 
 
 </p>
